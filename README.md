@@ -1,1 +1,3 @@
-# time-module
+# Time Module
+
+Time-related utilities and experiments.
